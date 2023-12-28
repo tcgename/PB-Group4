@@ -1,3 +1,3 @@
 # PB-Group4
 
-This is a test for the connection commit of github and Slack. 
+This is a test for the commit of github and Slack. 
