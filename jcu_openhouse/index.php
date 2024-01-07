@@ -15,42 +15,25 @@
 get_header();
 ?>
 
-	<main id="primary" class="site-main">
-
-		<?php
-		if ( have_posts() ) :
-
-			if ( is_home() && ! is_front_page() ) :
-				?>
-				<header>
-					<h1 class="page-title screen-reader-text"><?php single_post_title(); ?></h1>
-				</header>
-				<?php
-			endif;
-
-			/* Start the Loop */
-			while ( have_posts() ) :
-				the_post();
-
-				/*
-				 * Include the Post-Type-specific template for the content.
-				 * If you want to override this in a child theme, then include a file
-				 * called content-___.php (where ___ is the Post Type name) and that will be used instead.
-				 */
-				get_template_part( 'template-parts/content', get_post_type() );
-
-			endwhile;
-
-			the_posts_navigation();
-
-		else :
-
-			get_template_part( 'template-parts/content', 'none' );
-
-		endif;
-		?>
-
-	</main><!-- #main -->
+<?php
+echo "<div class='f-banner'><img src='images/nbanner.jpg'></div>
+<div class='weizhi'>Your position：<a href='index.php'>Home</a> > Height light</div>
+<div class='HL'>
+	<h2>Our Teaching Philosophy</h2>
+	<p>Our approach to education is rooted in developing a deep understanding of mathematics and science principles, which serves as a strong foundation for our students. Through personalized worksheets and assessments, our students are able to apply this understanding and gain confidence in their abilities, enabling them to excel and reach the pinnacle of academic success.</p>
+	<h2>Nurturing a Love for Learning</h2>
+	<p>We have been helping ours students to achieve success in their educational journey and in their lives by nurturing a love for learning.</p>
+</div>";
+?>
+<?php
+echo "<div class='f-banner'><img src='images/nbanner.jpg'></div>
+<div class='HL'>
+	<h2>Preparing Students to Achieve Success</h2>
+	<p>Raising confident and successful learners since 2018. Our students are at the center of everything we do here at Baizonn and their well-being and success in learning is at our hearts. And while we educate our students, we also equip them with the right knowledge, skills and attitude to help them solve problems, think big and seek excellence.</p>
+	<h2>Passionate Teachers that Make a Difference</h2>
+	<p>Our teachers motivate and nurture every student to achieve their best and to build the right attitudes to develop a love for learning. We hire teachers with a passion for teaching and the qualifications and experience to create an amazing classroom environment for their students.</p>
+</div>";
+?>
 
 <?php
 get_sidebar();

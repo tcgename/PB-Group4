@@ -967,3 +967,37 @@ textarea {
 	margin-right: auto;
 	margin-bottom: 1.5em;
 }
+
+.HL{
+	width: 1160px;
+	margin: 30px auto 0 auto;
+	padding: 20px;
+	border: 1px solid #e7eaf1;
+	border-radius: 8px;
+	box-shadow: 2px 1px 10px #CCCCCC;
+}
+.HL p{
+	margin: 5px 0;
+	line-height: 1.6;
+	font-size: 16px;
+	text-indent: 2em;
+	color: #555555;
+}
+.HL img{
+	max-width: 100%;
+	display: block;
+	margin: 10px auto;
+}
+.f-banner {
+	width: 100%;
+	height: 400px;
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+
+.f-banner img {
+	display: block;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
