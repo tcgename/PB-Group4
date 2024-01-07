@@ -14,6 +14,16 @@
 
 get_header();
 ?>
+<h1>About Us-James Cook University Open House</h1>
+<h2>Welcome to James Cook University!</h2>
+<p>At James Cook University (JCU), we are a vibrant community that strives for excellence and innovation. Since our founding in 1970, we have been committed to providing world-class education and research opportunities, particularly in the areas of health, environment and economics in the tropics.James Cook University also offers a wide range of academic and non-academic facilities and services for students, including libraries, housing, athletic facilities, financial aid and/or scholarships, study abroad and exchange programmes, online courses and distance learning opportunities, and administrative services.</p>
+<h2>University Snapshot</h2>
+
+<h2>Fields of Study / Degree Levels</h2>
+<p>There are six major fields of study and four degree levels. From the lowest undergraduate degree to the highest postgraduate degree. The matrix is designed to help quickly determine the academic scope and degree levels at James Cook University.</p>
+<h2>Programs and Courses</h2>
+<p>Arts and Humanities, Languages and Cultures, Business and Social Sciences, Medicine and Health, Science and Technology, and Engineering.</p>
+
 
 <?php
 echo "<div class='f-banner'><img src='images/nbanner.jpg'></div>
