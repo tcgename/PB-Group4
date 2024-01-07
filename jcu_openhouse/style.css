@@ -1001,3 +1001,26 @@ textarea {
 	height: 100%;
 	object-fit: cover;
 }
+
+/*course-css*/
+.entry-title {
+	color: #003366; /* JCU's dark blue color */
+	text-align: center;
+}
+
+.course {
+	background-color: #f2f2f2;
+	border-left: 5px solid #0056b3; /* JCU's blue color */
+	margin-bottom: 20px;
+	padding: 20px;
+}
+
+.course h2 {
+	color: #0056b3;
+}
+
+.course p {
+	font-size: 16px;
+	line-height: 1.5;
+}
+
