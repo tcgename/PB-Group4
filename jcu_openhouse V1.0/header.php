@@ -64,13 +64,13 @@
 		</div><!-- .site-branding -->
 
 		<nav id="site-navigation" class="main-navigation">
-    		<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'jcu_openhouse' ); ?></button>
-    		<ul id="primary-menu">
-        		<li><a href="<?php echo esc_url( home_url( '/' ) ); ?>">Home</a></li>
-        		<li><a href="<?php echo esc_url( home_url( '/index.php' ) ); ?>">Course</a></li>
-     
-    		</ul>
-			</nav><!-- #site-navigation -->
-
+    		<?php
+    		wp_nav_menu(
+        		array(
+            		'theme_location' => 'primary', // use 'primary' if you changed it in functions.php
+            		'menu_id'        => 'primary-menu',
+        		)
+    		);
+    		?>
 		</nav><!-- #site-navigation -->
 	</header><!-- #masthead -->
