@@ -68,7 +68,7 @@
          
          <!-- Image 1 -->
          <div class="team-member">
-             <img src="<?php echo get_template_directory_uri(); ?>/images/logo_main.png" alt="Team Member 1">
+             <img src="<?php echo get_template_directory_uri(); ?>/images/Xinmeng.png" alt="Xinmeng Yang">
              <p>John Doe</p>
          </div>
 
