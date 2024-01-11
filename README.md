@@ -10,7 +10,7 @@ JCU Openhouse is a group of professional teachers in Singapore who provide cours
 - 
 
 # Pages
-**Homepage:**The homepage is the login page of our website; This is the default page they use when accessing the website. Our homepage contains a brief introduction to the school. And a teaching philosophy module, providing a brief description of the educational quality and philosophy of the school. And the photos of our team members at the bottom of the page.
+**Homepage**: The homepage is the login page of our website; This is the default page they use when accessing the website. Our homepage contains a brief introduction to the school. And a teaching philosophy module, providing a brief description of the educational quality and philosophy of the school. And the photos of our team members at the bottom of the page.
 
 **Contact Us:** The Contact Us page contains a form that collects the contact details of the user as well as any queries or questions they may have (in the message section) next to a map which displays the location of JCU campus in Singapore based on the address provided to us by the client.
 
