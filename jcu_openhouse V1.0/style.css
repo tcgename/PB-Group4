@@ -1222,27 +1222,107 @@ textarea {
     right: 0;
     margin: 0;
 }
+/*course*/
+.container {
+	width: 80%;
+	margin: auto;
+	background-color: #ffffff;
+	padding: 20px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.course {
+	display: flex;
+	align-items: flex-start;
+	margin-bottom: 30px;
+}
+.course img {
+	width: 200px;
+	margin-right: 20px;
+}
+.course-description {
+	flex: 1;
+}
+.course-title {
+	margin-top: 0;
+	color: #205081;
+	font-size: 24px;
+	padding-bottom: 10px;
+	border-bottom: 2px solid #205081;
+}
+.course-text {
+	margin: 20px 0;
+}
+.course-line {
+	height: 1px;
+	background-color: #cccccc;
+	border: none;
+	margin: 30px 0;
+}
 
+/* Set up the layout for speakers */
+.speaker {
+	display: flex;
+	align-items: center;
+	margin-bottom: 30px;
+	border-bottom: 1px solid #eee;
+	padding-bottom: 20px;
+}
 
-/*course-css*/
-.entry-title {
-	color: #003366; /* JCU's dark blue color */
+.speaker:last-child {
+	border-bottom: none;
+}
+
+/* Style the image and info sections within each speaker div */
+.speaker-image, .speaker-info {
+	flex: 1;
+}
+
+.speaker-image {
+	text-align: center;
+	padding-right: 20px;
+}
+
+.speaker-image img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 50%; /* Make the images round */
+}
+
+.speaker-info {
+	padding-left: 20px;
+}
+
+/* Style the speaker name and title */
+.speaker-info h2 {
+	color: #205081; /* Adjust the color to fit your theme */
+	margin-bottom: 10px;
+}
+
+.speaker-info p {
+	margin-bottom: 10px;
+}
+
+/* Style the session info area */
+.session-info {
+	background-color: #eaeaea;
+	padding: 15px;
+	margin-bottom: 20px;
+}
+
+/* Style for the list of details for each session */
+.details-list {
+	list-style-type: none;
+	padding: 0;
+}
+
+.details-list li {
+	margin-bottom: 5px;
+}
+
+/* Add some styles for the header and footer if they are included */
+header, footer {
+	background-color: #333;
+	color: white;
+	padding: 10px 0;
 	text-align: center;
 }
-
-.course {
-	background-color: #f2f2f2;
-	border-left: 5px solid #0056b3; /* JCU's blue color */
-	margin-bottom: 20px;
-	padding: 20px;
-}
-
-.course h2 {
-	color: #0056b3;
-}
-
-.course p {
-	font-size: 16px;
-	line-height: 1.5;
-}
-
