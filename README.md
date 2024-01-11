@@ -48,3 +48,31 @@ Our website's design aesthetic centers around delivering a clean and uncluttered
 **Fallback Option**: While 'Montserrat' is our preferred font choice, it is essential to maintain optimal readability even in situations where it may not be available. In such cases, we prioritize using any readable 'sans-serif' font as a suitable fallback option, ensuring that the content remains easily accessible and visually pleasing to our audience.
 
 **Colours**: The colour scheme of a website plays a vital role in creating an engaging and visually cohesive user experience. Our website incorporates a carefully selected palette of primary colours to achieve a harmonious and aesthetically pleasing design. This documentation outlines the specific colour choices and their application throughout the site, ensuring readability and visual appeal.
+
+
+# Applications and Processes
+Efficient communication and seamless project management are paramount for the success of any collaborative endeavour. In our workflow, we have employed Slack, Trello, and GitHub as integral tools to facilitate daily communication, track progress, and manage our project effectively. Here provides an overview of each platform's role in supporting our team's collaboration and productivity.
+
+**Slack**: Slack serves as our primary platform for daily communication and collaboration. Its versatile features enable us to share important links, provide updates, plan meetings, and exchange ideas, tutorials, and designs seamlessly. By utilizing Slack's text channels, voice channels, and direct messaging capabilities, we ensure effective and efficient communication within our team.
+
+**Trello**: To maintain organized project management, we rely on Trellp as our go-to tool. Trello's flexible and customizable interface allows us to create a centralized workspace where we can track tasks, monitor progress, and collaborate on various project aspects. Through Trello, we allocate tasks, define deadlines, and track completed tasks, ensuring transparency and accountability among team members.
+
+**GitHub**: GitHub serves as our dedicated platform for version control and repository management. With GitHub, we create a repository where we store our project files, including the website's details, content, and associated assets. This enables us to effectively manage different versions of the project, collaborate on code development, and seamlessly integrate changes made by team members.
+
+# Hosting and Deployment
+
+
+# Project Management
+To streamline our website development process and ensure efficient task management, we adopted Notion as our project management tool. Leveraging the Kanban framework within Notion, we organized our tasks into three sections, allowing us to track items, visualize progress, and efficiently manage our project. This documentation outlines our use of Trello and the benefits it brought to our development workflow.
+
+**Trello**: Trello is a versatile and collaborative workspace that offers a wide range of features for project management. By utilizing Trello, we were able to create an organized and centralized platform to track and manage our development tasks. Its intuitive interface and extensive customization options allowed us to tailor the workspace to our specific project needs.
+
+**Kanban**: Within Trello, we implemented the Kanban framework to visualize our project's workflow. This framework organizes tasks into three distinct sections: "To Do," "In Progress," and "Completed." Each section represents a different stage of the development process. This visual representation provided us with a clear overview of our project's progress and helped us identify any bottlenecks or areas that required attention.
+
+**Overall Flow**: Trello's comprehensive feature set enabled us to create an overall flow for our project based on the tasks we needed to accomplish. By visualizing the project timeline, identifying dependencies, and assigning priorities, we optimized our development process. Additionally, the collaborative nature of Trello allowed team members to actively communicate, provide feedback, and address any challenges or roadblocks that arose during the development phase.
+
+# Enviornment Overview
+**Local Environment**: This environment is typically used for development, testing, and debugging purposes, allowing developers and designers to work on and modify the website without affecting the live version. It involves installing a software stack like XAMPP that includes an Apache server, MySQL database, and PHP, which are necessary to run WordPress. This local setup allows for quicker development, as changes can be immediately seen without the need for uploading files to a server. Ensuring that the live site remains stable and unaffected by any potential issues. Once the development or testing is complete, the site can be migrated from the local environment to a live hosting server for public access.
+
+**XAMPP**: Choosing XAMPP as a local development environment for web projects, including WordPress websites, is primarily due to its simplicity, versatility, and cross-platform compatibility. It is favored because it simplifies the process of setting up a local server environment, eliminating the need for individual installation and configuration of these components.  It's particularly useful for beginners due to its user-friendly interface and ease of use, allowing for quick setup and minimal configuration. Developers often choose XAMPP to develop and test their websites and applications locally before deploying them to a live server, ensuring that any issues can be resolved in a controlled and private environment. Additionally, XAMPP's widespread use and supportive community provide a wealth of resources and troubleshooting assistance.
+
