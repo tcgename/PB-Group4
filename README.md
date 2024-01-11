@@ -1,7 +1,7 @@
 # PB-Group4 Task Overview
 This repository contains the new theme we have developed for the JCU Openhouse website: JCU-Openhouse, and documentation for the deployment of theme on to your own site, the schematic for the theme and the website.
 
-JCU Openhouse is a group of professional teachers in Singapore who provide course selection services, course selection consultation services for students on campus, and course introduction services for prospective college students who want to study at JCU， this website was created using Underscores.me as its base and was completed by the students of James Cook University.
+JCU Openhouse is a group of professional teachers in Singapore who provide course selection services, course selection consultation services for students on campus, and course introduction services for prospective college students who want to study at JCU, this website was created using Underscores.me as its base and was completed by the students of James Cook University.
 
 # Team Members
 - Lu Zhixian- 14161321
