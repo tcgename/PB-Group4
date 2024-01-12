@@ -7,7 +7,7 @@ JCU Openhouse is a group of professional teachers in Singapore who provide cours
 - Lu Zhixian- 14161321
 - Mu TianGao- 14167990
 - Nickson Tanjodi- 14289802
-- 
+- Xinmeng Yang- 14276824
 
 # Pages
 **Homepage**: The homepage is the login page of our website; This is the default page they use when accessing the website. Our homepage contains a brief introduction to the school. And a teaching philosophy module, providing a brief description of the educational quality and philosophy of the school. And the photos of our team members at the bottom of the page.
