@@ -10,9 +10,15 @@ JCU Openhouse is a group of professional teachers in Singapore who provide cours
 - Xinmeng Yang- 14276824
 
 # Pages
-**Homepage**: The homepage is the login page of our website; This is the default page they use when accessing the website. Our homepage contains a brief introduction to the school. And a teaching philosophy module, providing a brief description of the educational quality and philosophy of the school. And the photos of our team members at the bottom of the page.
+**Homepage:** The homepage is the login page of our website; This is the default page they use when accessing the website. Our homepage contains a brief introduction to the school. And a teaching philosophy module, providing a brief description of the educational quality and philosophy of the school. And the photos of our team members at the bottom of the page.
 
-**Contact Us:** The Contact Us page contains a form that collects the contact details of the user as well as any queries or questions they may have (in the message section) next to a map which displays the location of JCU campus in Singapore based on the address provided to us by the client.
+**Course**: The course page displays the courses offered by the school and provides a brief description of the project courses, allowing users to have a more intuitive understanding of the course design.
+
+**Schedlue**: This page showcases the responsible persons for relevant courses in our school and showcases our strong teaching staff. And consultation time is provided to facilitate customers who want to have a deeper understanding of the relevant courses.
+
+**Contact:** The Contact Us page contains a form that collects the contact details of the user as well as any queries or questions they may have (in the message section). 
+
+**Map**: The page shows us a map on the page which displays the location of JCU campus in Singapore based on the address provided to us by the client. 
 
 # Coding
 **PHP**:  PHP is a widely-used, open-source scripting language especially suited for web development. Embedded into HTML, it enables the creation of dynamic and interactive websites. PHP scripts are executed on the server, generating HTML which is then sent to the client's browser, allowing for the creation of content that can change each time the page is loaded.It's known for its ease of use for beginners, yet powerful enough for advanced programming, making it a popular choice for web developers. 
