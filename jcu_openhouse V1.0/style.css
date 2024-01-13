@@ -1,0 +1,44 @@
+/*
+Theme Name: Twenty Twenty-Two child
+Template:twentytwentytwo
+Author:Xinmeng Yang
+Version:0.0.1
+*/
+
+body {
+    background-color: #FAF0E6; /*Modify the background colour*/
+  }
+
+p {
+    font-family: 'Arial', sans-serif; /* Setting the font for paragraph text */
+    font-size: 16px; /* 设Set text size to 16 pixels */
+  }
+
+p {
+    font-family: 'Arial', sans-serif; /* Setting the font for paragraph text */
+    font-size: 16px; /* Set the text size to 16 pixels */
+  }
+
+
+.heading {
+    font-weight: bold; /* Setting font bold */
+    text-transform: uppercase; /* Set text to uppercase */
+    color: #333; /* Setting the text colour */
+    text-shadow: 1px 1px #888; /* Setting the text shadow effect */
+}
+
+
+.element {
+    display: flex; 
+    justify-content: center; /* horizontal centering */
+    align-items: center; /* vertical centering */
+  }
+
+
+.element:before {
+    content: "★";
+    color: gold;
+    position: absolute;
+    left: -10px;
+    top: 0;
+}
